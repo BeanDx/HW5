@@ -1,4 +1,4 @@
-# hw_web_5
+# HW5
 
 ## Description
 This project was created to perform practical work on web programming. 
